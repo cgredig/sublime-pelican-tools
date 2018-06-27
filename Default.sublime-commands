@@ -1,0 +1,9 @@
+[
+    {   "caption": "Pelican: List tag count",
+        "command": "pelican_tags_count"
+    }
+    ,{
+        "caption": "Pelican: Show related tags",
+        "command": "blog_related_tags"
+    }
+]
